@@ -29,3 +29,9 @@
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
+
+### How it works
+
+- Get stats from WakaTime API
+- Update Gist with Github API
+- Use Github Actions for updating Gist
